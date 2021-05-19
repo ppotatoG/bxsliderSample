@@ -1,1 +1,17 @@
 @import url(reset.css);
+
+.inner {
+    background-color: #eee;
+    width: 100%;
+    ul {
+        margin: 0 auto;
+        li {
+            padding: 10px;
+            box-sizing: border-box;
+            background-color: gray;
+            span {
+                display: block;
+            }
+        }
+    }
+}
