@@ -22,7 +22,11 @@
             width: 100%;
             height: 20vw;
             line-height: 20vw;
-            
+            display: none;
+            &.on {
+                background: coral;
+                display: block;
+            }
         }
     }
 }

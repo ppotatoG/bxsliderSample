@@ -29,5 +29,11 @@
   width: 100%;
   height: 20vw;
   line-height: 20vw;
+  display: none;
+}
+
+.inner ul.contents li.on {
+  background: coral;
+  display: block;
 }
 /*# sourceMappingURL=style.css.map */
