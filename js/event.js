@@ -7,7 +7,8 @@ $(function(){
       moveSlides : 1,
       slideMargin : 10,
       onSliderLoad : fuc,
-      onSlideAfter : fuc,
+      onSlideAfter : fuc
+      
     });
 });
 
